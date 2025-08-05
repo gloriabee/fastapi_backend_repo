@@ -9,3 +9,6 @@ python-jose
 authlib
 alembic
 pydantic
+asyncpg
+greenlet
+httpx
